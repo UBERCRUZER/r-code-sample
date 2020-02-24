@@ -7,7 +7,7 @@ Small project for a web analytics class. Utilizes R and various packages for vis
 Sample output:
 
 
-![Games Played Hist](https://i.imgur.com/NkyMf1i.png)
+![Games Played Hist](https://i.imgur.com/eLkvdno.png)
 
 ![Average per player assists](https://i.imgur.com/jzJ5Dyj.png)
 
